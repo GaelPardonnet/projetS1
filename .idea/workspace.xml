@@ -1,47 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2547f098-6287-452d-b2e4-ba6f91f26d1e" name="Default Changelist" comment="first commit images videos">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/projetS1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1epreuve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/afficheFR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/afficheteazer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/anorak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/batailleFinale.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boysband.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/colombus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/consommationelecpc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/datacenter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/explosionMaison.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/infographie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/l_oeuf de pâques.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo1W.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/Logo_AInteractive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/darkistheweb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/darkside.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/digitalpollutionalternative.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/econline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/gameofpollution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/memorage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/nociweb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/numericgalaxy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/polluweb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/toxiweb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoautres/wfoulness.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mechants.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/part dématérialisé.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parzival+james.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parzivalarthemis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parzivaletloeuf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/setupled.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/spielberg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stadia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/nom-image-01.jpg" beforeDir="false" />
+    <list default="true" id="2547f098-6287-452d-b2e4-ba6f91f26d1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Dry Oasis - Gaël Pardonnet/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Dry Oasis - Gaël Pardonnet" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,8 +43,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608124750117</updated>
-      <workItem from="1608124751446" duration="1762000" />
+      <workItem from="1608124751446" duration="3230000" />
     </task>
+    <task id="LOCAL-00001" summary="index">
+      <created>1608129065787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608129065787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +60,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit images videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit images videos" />
+    <MESSAGE value="index" />
+    <option name="LAST_COMMIT_MESSAGE" value="index" />
   </component>
 </project>
