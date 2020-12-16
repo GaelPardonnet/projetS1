@@ -1,0 +1,392 @@
+/*import des fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+/*animation néon*/
+@keyframes neon {
+    from {
+        text-shadow:
+                0 0 6px rgba(240,142,207,0.90),
+                0 0 30px rgba(240,142,207,0.34),
+                0 0 12px rgba(188,197,245,0.52),
+                0 0 21px rgba(188,197,245,0.92),
+                0 0 34px rgba(188,197,245,0.78),
+                0 0 54px rgba(188,197,245,0.92);
+    }
+    to {
+        text-shadow:
+                0 0 6px rgba(240,142,207,0.98),
+                0 0 34px rgba(240,142,207,0.42),
+                0 0 12px rgba(188,197,245,0.68),
+                0 0 25px rgba(188,197,245,0.74),
+                0 0 38px rgba(188,197,245,0.98),
+                0 0 58px rgba(188,197,245,1);
+    }
+}
+/*debut des CSS pour téléphone */
+/*--- /!\ attention mettre la taille speciale pour iphone 10 /!\--*/
+@media (max-width: 490px) {
+    body{
+        background-color: #101840;
+        color: white;
+        font-family: 'Roboto', serif;
+    }
+    header{
+        z-index: 4;
+        position: fixed;
+        background: linear-gradient(0.25turn, #A51473, #3F5EFB);
+        display: flex;
+        width: 100%;
+        height: 100px;
+        color: #ffffff;
+        font-family: 'Bebas Neue', cursive;
+        justify-content: space-between;
+        align-items: center;
+        top:0;
+        box-shadow: -100px 2px 20px rgba(165, 20, 115, 0.6), 100px 2px 20px rgba(63, 94, 251, 0.8);
+    }
+    p.intro{
+        letter-spacing: 2px;
+        line-height: 120%;
+    }
+
+    header a, header nav{
+        margin:auto;
+        color: white;
+    }
+    .logo{
+        height:60px;
+        width: 60px;
+    }
+    header > a{
+        text-decoration: none;
+    }
+    .imgintro{
+        width: 100%;
+    }
+    h1{
+        margin: 0;
+        animation: neon 0.4s ease-in-out infinite alternate;
+    }
+    h2{
+        letter-spacing: 1px;
+        font-family:'Play', sans-serif;
+        color: #F2C029;
+    }
+    main{
+        margin-top: 100px;
+    }
+    nav ul{
+        margin: 0;
+        transition: 0s;
+    }
+    .intro{
+        margin: 30px;
+        padding-left: 10px;
+    }
+    .article{
+        height: 40vh;
+        position: relative;
+        overflow: hidden;
+        margin: 50px 0 50px 0;
+        display: block;
+    }
+    .G{
+        box-shadow: 0 0 15px 6px rgba(63, 94, 251, 0.2)
+    }
+    .D{
+        box-shadow: 0 0 15px 6px rgba(165, 20, 115, 0.3)
+    }
+    .article img{
+        height: 100%;
+        width: auto;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 1;
+    }
+
+    .gauche{
+        text-align: right;
+        width: 100%;
+        height: 100%;
+        right: 0;
+        display: block;
+        position: absolute;
+        z-index: 2;
+        background: linear-gradient(0.25turn,rgba(63, 94, 251, 0)20%, #3F5EFB 80%);
+
+    }
+    .gauche h3{
+        letter-spacing: 1px;
+        font-family:'Play', sans-serif;
+        color: #F2C029;
+    }
+    .gauche > p, .gauche h3{
+        padding-left: 50%;
+        padding-right: 10px;
+    }
+    .plus{
+        width: 25vw;
+        text-align: center;
+        font-family:'Play', sans-serif;
+        color: #101840;
+        display: flex;
+        padding: 10px 15px;
+        background-color: #F2C029;
+        justify-content: space-around;
+        border-radius: 30px;
+        text-decoration: none;
+    }
+    .gauche .plus{
+        margin-left: 60vw;
+    }
+    .droite .plus {
+        margin-left: 8vw;
+    }
+    .plusdiv{
+        position: absolute;
+        bottom: 10px;
+        justify-content: center;
+    }
+    .plus p{
+        padding: 2px 0 0 0;
+        margin: 0;
+    }
+    .plus i{
+        color: #101840;
+    }
+
+    .droite{
+        width: 100%;
+        height: 100%;
+        right: 0;
+        display: block;
+        position: absolute;
+        z-index: 2;
+        background: linear-gradient(0.25turn,#A51473 20%, rgba(165, 20, 115, 0) 80%);
+
+    }
+    .droite h3{
+        letter-spacing: 1px;
+        font-family:'Play', sans-serif;
+        color: #F2C029;
+        padding-right: 50%;
+        padding-left: 10px;
+    }
+    .droite > p{
+        padding-right: 50%;
+        padding-left: 10px;
+    }
+    footer a > p {
+        display: none;
+    }
+    footer{
+        background: linear-gradient(0.25turn, #A51473, #3F5EFB);
+        width: 100%;
+        margin-top: 20px;
+    }
+    footer > div{
+        display: flex;
+        width: 80%;
+        margin: auto;
+        padding-top: 20px;
+        justify-content: space-between;
+        align-items: center;
+    }
+    footer> p{
+        margin: 0;
+        font-size: 10px;
+        padding: 20px 40px;
+        text-align: center;
+    }
+    footer i{
+        color: white;
+    }
+    footer a{
+        color: #F2C029;;
+    }
+    header a {
+        text-decoration: none;
+    }
+    /*menu*/
+    header ul{
+        list-style: none;
+        position: absolute;
+        padding: 0;
+        top:0;
+        left:0;
+        width: 0;
+        height: 0;
+        overflow: hidden;
+        transition: .4s;
+
+    }
+    header li{
+        text-align: center;
+    }
+    .active{
+        width: 100vw;
+        height: 100vh;
+        background-color: #101840;
+        transition: 0.1s;
+
+    }
+
+    .active li{
+        padding:40px 0;
+        width: 50%;
+        margin: auto;
+    }
+    .active>li:first-child{
+        position: absolute;
+        padding: 25px 0 0 0;
+        right: 10%;
+        margin: 0;
+        width: auto;
+    }
+    .active li:nth-child(2){
+        margin-top: 10vh;
+    }
+    .active li:nth-child(3) ,.active li:nth-child(5) ,.active li:nth-child(7){
+        border-top : solid #A51473 3px;
+    }
+    .active li:nth-child(4),.active li:nth-child(6){
+        border-top : solid #3F5EFB 3px;
+    }
+
+    .imagearticle{
+        background: linear-gradient(rgba(165, 20, 115, 0),#A51473);
+        height: 50vh;
+        width: 100%;
+        text-align: center;
+    }
+    .imagearticle p{
+        margin: 0;
+        padding: 10px 0 10px 0;
+    }
+    .imagearticle .color{
+        padding-top: 5%;
+        height: 85%;
+        width: 100%;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .imagearticle .color img{
+        height: 100%;
+    }
+    .carousel-items {
+        height: 50vh;
+        display: flex;
+        overflow-x: scroll;
+        padding: 1rem 0;
+        scroll-snap-type: x mandatory;
+        margin: 0 5vw;
+    }
+    .carousel-item {
+        flex : 1 0 250px;
+        margin: 0 20px;
+        scroll-snap-align: start;
+        list-style: none;
+    }
+    .color{
+        width: 90vw;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        position: relative;
+
+    }
+    .r{
+        background: linear-gradient(rgba(165, 20, 115, 0),#A51473);
+    }
+    .b{
+        background: linear-gradient(rgba(63, 94, 251, 0), #3F5EFB);
+    }
+    .color img, .color video{
+        max-width: 80vw;
+        max-height:36vh;
+    }
+    .inf{
+        height: 80vh;
+    }
+    .info img{
+        max-width: 80vw;
+        max-height:80vh;
+    }
+    .color a {
+        text-decoration: none;
+        color: white;
+    }
+    .color p{
+        font-family: 'Bebas Neue', cursive;
+        letter-spacing: 3px;
+        position: absolute;
+        margin: auto;
+        width: auto;
+        bottom: 0;
+        padding: 10px;
+    }
+    .galerie{
+        margin: 60px 30px 0 30px;
+    }
+    .em{
+        text-decoration: underline;
+        font-size: 12px;
+        text-align: right;
+    }
+    form{
+        margin: 0 10vw;
+        width: 80vw;
+        height: auto;
+        background: linear-gradient(rgba(165, 20, 115, 0),#A51473);
+
+    }
+    form div{
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+    label{
+        font-family: 'Bebas Neue', cursive;
+        display: block;
+        padding-bottom: 10px;
+    }
+    input, textarea{
+        width: 100%;
+        height: 4vh;
+        border: 0;
+        background: white;
+        border-radius: 5px;
+    }
+    textarea{
+        height: 12vh;
+    }
+    button{
+        border: none;
+        border-radius: 30px;
+        font-family:'Play', sans-serif;
+        color: #101840;
+        background-color: #F2C029;
+        padding: 12px 20px 10px 20px;
+    }
+
+    /* scrollbar apparante sur les slides*/
+    ::-webkit-scrollbar-track {
+        background-color: rgba(255, 255, 255, 0.1)  ;
+        border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar {
+        height: 16px;
+        background-color: rgba(255, 255, 255, 0.1)  ;
+        border-radius: 20px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: white;
+        border-radius: 20px;
+    }
+}

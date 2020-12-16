@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap');
+@media (max-width: 375px) {
+    body{
+        background-color: white;
+        margin: 0;
+    }
+    ul{
+        padding: 0;
+        margin:0;
+    }
+    header, footer{
+        width: 100%;
+        height:100px;
+        display: flex;
+        background-color: #013259;
+        justify-content: space-around;
+    }
+    header a, nav, footer>div, footer p, footer img{
+        text-align: center;
+        color: #ffffff;
+        text-decoration: none;
+        display: block;
+        width:32%;
+        height:100%;
+    }
+    header a,footer p, footer > div{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .logo {
+        width: auto;
+        height: 100%;
+    }
+    img, iframe{
+        overflow: hidden;
+        height:100%;
+        width: 100%;
+    }
+    h1 {
+        margin:0;
+        font-family:'Play', sans-serif;
+    }
+    p {
+        margin: 20px;
+    }
+    .tweeter{
+        margin-top: 10px;
+        margin-bottom: 20px;
+        width: 100%;
+        height:300px;
+        position: relative;
+        color: white;
+    }
+    .tweeter h2, .tweeter div{
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-family:'Play', sans-serif;
+    }
+    .tweeter h2, .tweeter p, .tweeter div{
+        position: absolute;
+        z-index:2;
+    }
+    .tweeter p{
+        bottom: 35px;
+    }
+    .tweeter div{
+        bottom:15px;
+    }
+    .tweeter a {
+        text-decoration: none;
+        color: white;
+        overflow: hidden;
+        border: 2px solid #fff;
+        background: none;
+        position: relative;
+        padding: 10px 20px;
+    }
+    main{
+        margin-top: 120px;
+    }
+    header{
+        position: fixed;
+        z-index:3;
+        top:0;
+    }
+    .tweeter .filter{
+
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(1,50,89,0.6);
+        display: block;
+        z-index: 1;
+    }
+    footer > div > div {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        height: 25px;
+    }
+    footer > div > div a {
+        display: block;
+        width: 25px;
+        height:25px;
+    }
+}
