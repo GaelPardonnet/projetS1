@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2547f098-6287-452d-b2e4-ba6f91f26d1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autresprojets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autresprojets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/criseenvironnementale.html" beforeDir="false" afterPath="$PROJECT_DIR$/criseenvironnementale.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luttepollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/luttepollution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/synopsis.html" beforeDir="false" afterPath="$PROJECT_DIR$/synopsis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608124750117</updated>
-      <workItem from="1608124751446" duration="4675000" />
+      <workItem from="1608124751446" duration="5317000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1608129065787</created>
@@ -66,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608130979869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="librairie font awesome + css">
+      <created>1608131786621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608131786621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +89,7 @@
     <MESSAGE value="index" />
     <MESSAGE value="pages types" />
     <MESSAGE value="dernières pages html (contact et à propos)" />
-    <option name="LAST_COMMIT_MESSAGE" value="dernières pages html (contact et à propos)" />
+    <MESSAGE value="librairie font awesome + css" />
+    <option name="LAST_COMMIT_MESSAGE" value="librairie font awesome + css" />
   </component>
 </project>
