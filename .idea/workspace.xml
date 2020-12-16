@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2547f098-6287-452d-b2e4-ba6f91f26d1e" name="Default Changelist" comment="first commit images videos">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projetS1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1epreuve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/afficheFR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/afficheteazer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anorak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/batailleFinale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boysband.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/colombus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/consommationelecpc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/datacenter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/explosionMaison.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/infographie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l_oeuf de pâques.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo1W.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/Logo_AInteractive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/darkistheweb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/darkside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/digitalpollutionalternative.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/econline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/gameofpollution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/memorage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/nociweb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/numericgalaxy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/polluweb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/toxiweb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoautres/wfoulness.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mechants.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/part dématérialisé.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parzival+james.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parzivalarthemis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parzivaletloeuf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/setupled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spielberg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stadia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nom-image-01.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ljyMtZLwIbBCyb7MPfeIBTD4bw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Dry Oasis - Gaël Pardonnet/index.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2547f098-6287-452d-b2e4-ba6f91f26d1e" name="Default Changelist" comment="" />
+      <created>1608124750117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608124750117</updated>
+      <workItem from="1608124751446" duration="1762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit images videos" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit images videos" />
+  </component>
+</project>
